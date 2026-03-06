@@ -3,7 +3,7 @@
 ---
 
 # Foundling
-[[games/cairn/cairn-home\|🔙 Backgrounds]] << [[games/cairn/cairn-background/cairn-bg-fletchwind\|🏹 Fletchwind]] | [[games/cairn/cairn-background/cairn-bg-fungal-forager\|🍄 Fungal Forager]]
+[[games/cairn/cairn-home\|🔙 Backgrounds]] << [[games/cairn/cairn-background/cairn-bg-fletchwind\|🏹 Fletchwind]] | [[games/cairn/cairn-background/cairn-bg-fungal-forager\|🍄 Fungal Forager]] >>
 
 > [!summary] An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. Wherever you are, you have trouble fitting in. Roll on the **Omens** table (even if you’re not the youngest player), but keep the results private for now.
 
