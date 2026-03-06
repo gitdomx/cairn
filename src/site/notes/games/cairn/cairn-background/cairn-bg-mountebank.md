@@ -27,7 +27,7 @@ Randomiser:
 | --- | --- |
 | **1** | Your “patients” kept reporting miraculous recoveries, despite your lack of training. Start with **Bandages** (3 uses) and a knack for healing. |
 | **2** | After seducing a wealthy patron, their family hired a criminal gang to retrieve you. You got away and need to lay low. Start with **Beauty Cream**, 2 uses. Apply to appear irresistibly beautiful for the next 12 hours. |
-| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the **Omens** table, but keep the result to yourself. Start with a concealable **Knife** (d6, _petty_). |
+| **3** | You were a peddler of fake prophesies, but when one turned out to be true, it drew unwanted attention. Roll on the [[games/cairn/cairn-00-rules/cairn-omens#Omens Table\|omen table]], but keep the result to yourself. Start with a concealable **Knife** (d6, _petty_). |
 | **4** | Your latest stunt destroyed a priceless artifact and injured a dozen bystanders. Start with a **Captain’s Uniform** (_petty_), a **Ceremonial Sword** (harmless, 60gp), and a **Bouquet of Flowers**. |
 | **5** | You were cursed by a hedgewitch for fooling some innocent village folk. Magic acts unpredictably in your hands (_WIL save to avoid disaster_). If you are the target of magic, the same applies to its wielder. |
 | **6** | Your “seances” with the dead were in actuality a ruse involving a cleverly hidden spellbook of Auditory Illusion. Inevitably, a patron discovered your secret. Start with the **Spellbook** and a bundle of scarves. Auditory Illusion: You create illusory sounds that seem to come from a direction of your choice. _Produces random and occasionally inopportune sounds throughout the day_. |{ #cairn-mountebank-choice}

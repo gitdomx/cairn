@@ -30,7 +30,7 @@ Randomiser:
 | **3** | **To the death, always**: You never back down from a fight, no matter the odds. Take a **Death-Whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). [[games/cairn/cairn-00-rules/cairn-basics#Relics\|Recharge]]: Capture the final breath of a dying warrior. |
 | **4** | **Revere the dead**: Death is a journey we all take, and it deserves respect. Take an extra **30gp**. You always place two gold pieces on the eyelids of a slain foe. Somehow, you always find the coin. |
 | **5** | **Loyalty to the work**: Your word is your bond. Once you’ve accepted a job, you see it through to the end. Take a weathered **Tally Stick**. Once a vow is marked onto its face, the stick hardens (d8) until it is complete. The stick will snap in half if the vow is ever broken. |
-| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a **Blacked-Out Ledger**, then roll a second time on the **Bonds** table. |{ #cairn-outrider-code}
+| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a **Blacked-Out Ledger**, then roll a second time on the [[games/cairn/cairn-00-rules/cairn-bonds\|bonds]] table. |{ #cairn-outrider-code}
 
 
 ## Horse Breed
