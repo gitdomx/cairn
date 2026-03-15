@@ -4,15 +4,19 @@
 
 # Home
 - [[games/cairn/cairn-00-rules/cairn-basics\|Rules]]
+	- [[games/cairn/cairn-00-rules/cairn-background\|Backgrounds]]
+- [[games/cairn/cairn-00-rules/cairn-about-vald\|ℹ️ About Vald]]
 - [[games/cairn/cairn-00-rules/cairn-warden\|Warden]]
 - [[games/cairn/cairn-00-rules/cairn-weather\|☁️ Weather]]
 - [[games/cairn/cairn-00-rules/cairn-marketplace\|🛒 Marketplace]]
 
 ## Reminders
+### General
 - Time
 	- World Exploration: 3 watches/day
 	- Dungeon Exploration: 10 minutes/round
 	- Combat: 10 seconds/round
+- [[games/cairn/cairn-00-rules/cairn-about-vald#Vald Calendar\|🗓️ Vald Calendar]]
 ### For Exploration
 - [[games/cairn/cairn-00-rules/cairn-basics#Dungeon Exploration\|Dungeon Exploration]]
 	- [[games/cairn/cairn-00-rules/cairn-basics#Dungeon Actions\|Dungeon Actions]] 

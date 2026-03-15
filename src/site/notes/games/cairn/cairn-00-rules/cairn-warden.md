@@ -5,6 +5,7 @@
 # Warden in Cairn
 
 ## World Building
+
 ### Weather
 - refer to [[games/cairn/cairn-00-rules/cairn-weather#Weather Tables\|weather tables]]
 - roll start of day
@@ -30,6 +31,7 @@
 	- have [[games/cairn/cairn-00-rules/cairn-basics#Blast\|blast]]
 - attacks against detachments are
 	- [[games/cairn/cairn-00-rules/cairn-basics#Impaired\|impaired]] (excluding blast damage)
+
 
 ## Tools
 

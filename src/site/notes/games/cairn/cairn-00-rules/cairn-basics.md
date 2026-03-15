@@ -4,14 +4,14 @@
 
 # Cairn Basics
 Table of contents:
-- [[games/cairn/cairn-00-rules/cairn-basics#Character Creation\|#Character Creation]]
-- [[games/cairn/cairn-00-rules/cairn-basics#Core Rules\|#Core Rules]]
-- [[games/cairn/cairn-00-rules/cairn-basics#Combat Rules\|#Combat Rules]]
-- [[games/cairn/cairn-00-rules/cairn-basics#Scars\|#Scars]]
-- [[games/cairn/cairn-00-rules/cairn-basics#Magic\|#Magic]]
-- [[games/cairn/cairn-00-rules/cairn-basics#Dungeon Exploration\|#Dungeon Exploration]]
-- [[games/cairn/cairn-00-rules/cairn-basics#Wilderness Exploration\|#Wilderness Exploration]]
-- [[games/cairn/cairn-00-rules/cairn-basics#Downtime\|#Downtime]]
+- [[games/cairn/cairn-00-rules/cairn-basics#Character Creation\|Character Creation]]
+- [[games/cairn/cairn-00-rules/cairn-basics#Core Rules\|Core Rules]]
+- [[games/cairn/cairn-00-rules/cairn-basics#Combat Rules\|Combat Rules]]
+- [[games/cairn/cairn-00-rules/cairn-basics#Scars\|Scars]]
+- [[games/cairn/cairn-00-rules/cairn-basics#Magic\|Magic]]
+- [[games/cairn/cairn-00-rules/cairn-basics#Dungeon Exploration\|Dungeon Exploration]]
+- [[games/cairn/cairn-00-rules/cairn-basics#Wilderness Exploration\|Wilderness Exploration]]
+- [[games/cairn/cairn-00-rules/cairn-basics#Downtime\|Downtime]]
 
 ## Character Creation
 
@@ -63,7 +63,7 @@ Table of contents:
 ### Healing & Recovery
 - recover HP by:
 	- resting for minutes
-- after [[games/cairn/cairn-00-rules/cairn-basics#Critical Damage\|#Critical Damage]]
+- after [[games/cairn/cairn-00-rules/cairn-basics#Critical Damage\|critical damage]]
 	- bandages can stabilise
 
 ### Deprivation & Fatigue
@@ -119,12 +119,12 @@ Table of contents:
 - if multiple attackers attack same foe
 	- roll all weapon die
 	- keep highest die as damage
-- if attack reduces HP to exactly zero
+- if attack reduces HP to **exactly zero**
 	- player gets [[games/cairn/cairn-00-rules/cairn-basics#Scars\|scar]]
 
 ### Attack Modifiers
 #### Impaired
->[!info] Attacking from a position of weakness makes it **impaired**. Impaired attacks use 1d4 damage die instead of the normal damage die.
+>[!info] Attacking from a position of weakness makes it impaired. Impaired attacks use 1d4 damage die instead of the normal damage die.
 
 #### Enhanced
 >[!info] Attacking from a position of advantage makes it enhanced. Enhanced attacks use 1d12 damage die instead of the normal damage die.
@@ -174,7 +174,7 @@ ___
 ## Magic
 
 ### Spellbooks
-- **spellbooks**:
+- [[games/cairn/cairn-00-rules/cairn-spellbooks\|spellbooks]]:
 	- contain a single spell
 	- take up one slot (inventory)
 - spellbooks are rare
@@ -373,7 +373,7 @@ ___
 - traveling while sleep-deprived increases [[games/cairn/cairn-00-rules/cairn-path-difficulty#Terrain Difficulty\|terrain difficulty]]
 
 #### Light and the Wilderness
-- refer to [[games/cairn/cairn-00-rules/cairn-basics#Light\|#Light]]
+- refer to [[games/cairn/cairn-00-rules/cairn-basics#Light\|Light section]]
 - light can be blown out by environmental conditions
 	- wind, water, dust
 
